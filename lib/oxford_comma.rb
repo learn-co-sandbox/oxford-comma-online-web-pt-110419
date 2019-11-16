@@ -13,5 +13,5 @@ end
 end
 
 def printer
- puts oxford_comm a(["joanne", "angelica", "collin")
+ puts oxford_comm a(["joanne", "angelica", "collin"])
  end
