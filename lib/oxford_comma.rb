@@ -9,7 +9,4 @@ elsif array.length == 2
   # array = ['kiwi', 'durian']   x = 'starfruit'
  array.join(", ") + ", " + "and " + x
 end
-
 end
-
- 
