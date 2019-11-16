@@ -12,5 +12,6 @@ end
 
 end
 
-
-oxford_comma(["joanne", "angelica", "collin"])
+def printer
+ puts oxford_comm a(["joanne", "angelica", "collin")
+ end
