@@ -7,8 +7,9 @@ elsif array.length == 2
   elsif array.length >= 3
   x = array.pop 
   # array = ['kiwi', 'durian']   x = 'starfruit'
-  array.join(", ") + ", " + "and " + x
+  puts array.join(", ") + ", " + "and " + x
 end
+
 end
 
 
