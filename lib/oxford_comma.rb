@@ -12,6 +12,4 @@ end
 
 end
 
-def printer
- puts oxford_comma(["joanne", "angelica", "collin"])}"
- end
+ 
